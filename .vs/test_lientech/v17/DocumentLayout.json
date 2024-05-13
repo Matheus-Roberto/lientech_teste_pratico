@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BrokenSword1\\repo\\test_lientech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A472572-0ED0-4BE7-94ED-9840A63891A5}|lientech_xunit\\lientech_xunit.csproj|d:\\brokensword1\\repo\\test_lientech\\lientech_xunit\\helpers\\mockdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A472572-0ED0-4BE7-94ED-9840A63891A5}|lientech_xunit\\lientech_xunit.csproj|solutionrelative:lientech_xunit\\helpers\\mockdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A472572-0ED0-4BE7-94ED-9840A63891A5}|lientech_xunit\\lientech_xunit.csproj|d:\\brokensword1\\repo\\test_lientech\\lientech_xunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A472572-0ED0-4BE7-94ED-9840A63891A5}|lientech_xunit\\lientech_xunit.csproj|solutionrelative:lientech_xunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\test_lientech.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\test_lientech.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\datas\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\datas\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\services\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\services\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\services\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\services\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\services\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\services\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\services\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\services\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\tests\\roomendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\tests\\roomendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\tests\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\tests\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\tests\\movieendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\tests\\movieendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\tests\\roomdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\tests\\roomdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A472572-0ED0-4BE7-94ED-9840A63891A5}|lientech_xunit\\lientech_xunit.csproj|d:\\brokensword1\\repo\\test_lientech\\lientech_xunit\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A472572-0ED0-4BE7-94ED-9840A63891A5}|lientech_xunit\\lientech_xunit.csproj|solutionrelative:lientech_xunit\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\test_lientech.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\test_lientech.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|d:\\brokensword1\\repo\\test_lientech\\test_lientech\\models\\requestviewmodel\\roomrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E83B581-5EE3-4D5B-B17F-557C592DE1D4}|test_lientech\\test_lientech.csproj|solutionrelative:test_lientech\\models\\requestviewmodel\\roomrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 246,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoomDbContext.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Tests\\RoomDbContext.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Tests\\RoomDbContext.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Tests\\RoomDbContext.cs",
+              "RelativeToolTip": "test_lientech\\Tests\\RoomDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:42:03.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomEndPoints.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Tests\\RoomEndPoints.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Tests\\RoomEndPoints.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Tests\\RoomEndPoints.cs",
+              "RelativeToolTip": "test_lientech\\Tests\\RoomEndPoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:40:25.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\lientech_xunit\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "lientech_xunit\\GlobalUsings.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\lientech_xunit\\GlobalUsings.cs",
+              "RelativeToolTip": "lientech_xunit\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:25:00.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Models\\Room.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Models\\Room.cs",
+              "RelativeToolTip": "test_lientech\\Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:24:42.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Tests\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Tests\\MovieDbContext.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Tests\\MovieDbContext.cs",
+              "RelativeToolTip": "test_lientech\\Tests\\MovieDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:07:08.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "test_lientech",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\test_lientech.csproj",
+              "RelativeDocumentMoniker": "test_lientech\\test_lientech.csproj",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\test_lientech.csproj",
+              "RelativeToolTip": "test_lientech\\test_lientech.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T14:06:01.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieEndPoints.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Tests\\MovieEndPoints.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Tests\\MovieEndPoints.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Tests\\MovieEndPoints.cs",
+              "RelativeToolTip": "test_lientech\\Tests\\MovieEndPoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:59:12.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MockDb.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\lientech_xunit\\Helpers\\MockDb.cs",
+              "RelativeDocumentMoniker": "lientech_xunit\\Helpers\\MockDb.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\lientech_xunit\\Helpers\\MockDb.cs",
+              "RelativeToolTip": "lientech_xunit\\Helpers\\MockDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:32:40.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\lientech_xunit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "lientech_xunit\\UnitTest1.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\lientech_xunit\\UnitTest1.cs",
+              "RelativeToolTip": "lientech_xunit\\UnitTest1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwB4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:17:41.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "test_lientech.csproj",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\test_lientech.csproj",
+              "RelativeDocumentMoniker": "test_lientech\\test_lientech.csproj",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\test_lientech.csproj",
+              "RelativeToolTip": "test_lientech\\test_lientech.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T13:13:22.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoomRequestViewModel.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Models\\RequestViewModel\\RoomRequestViewModel.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Models\\RequestViewModel\\RoomRequestViewModel.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Models\\RequestViewModel\\RoomRequestViewModel.cs",
+              "RelativeToolTip": "test_lientech\\Models\\RequestViewModel\\RoomRequestViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:22:39.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "test_lientech\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAUwHMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:07:32.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Controllers\\MovieController.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "test_lientech\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwDIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:03:17.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Services\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Services\\IRoomRepository.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Services\\IRoomRepository.cs",
+              "RelativeToolTip": "test_lientech\\Services\\IRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:02:20.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Services\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Services\\IMovieRepository.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Services\\IMovieRepository.cs",
+              "RelativeToolTip": "test_lientech\\Services\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:53:21.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Datas\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Datas\\ApiDbContext.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Datas\\ApiDbContext.cs",
+              "RelativeToolTip": "test_lientech\\Datas\\ApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:35:31.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Services\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Services\\RoomRepository.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Services\\RoomRepository.cs",
+              "RelativeToolTip": "test_lientech\\Services\\RoomRepository.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAqwFsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:17:16.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Services\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Services\\MovieRepository.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Services\\MovieRepository.cs",
+              "RelativeToolTip": "test_lientech\\Services\\MovieRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:08:58.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "test_lientech\\WeatherForecast.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\WeatherForecast.cs",
+              "RelativeToolTip": "test_lientech\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:57:22.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Program.cs",
+              "RelativeDocumentMoniker": "test_lientech\\Program.cs",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\Program.cs",
+              "RelativeToolTip": "test_lientech\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:55:42.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\appsettings.json",
+              "RelativeDocumentMoniker": "test_lientech\\appsettings.json",
+              "ToolTip": "D:\\BrokenSword1\\repo\\test_lientech\\test_lientech\\appsettings.json",
+              "RelativeToolTip": "test_lientech\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T09:54:56.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
